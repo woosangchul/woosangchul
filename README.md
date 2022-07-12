@@ -22,6 +22,11 @@
   
   - Tensorflow로 개발된 LSTM 딥러닝 모델과 Pytorch로 개발된 GCN 딥러닝 모델 통합 프로젝트 
 </a>
+
+  <a href="https://github.com/woosangchul/RESTFul_AiTrash" target='_blank'>
+  
+  - AWS와 Spring Boot를 사용한 인공지능 쓰레기통 백엔드 프로젝트 
+</a>
   
   
   
@@ -32,6 +37,8 @@
 <div align="center">  
   
 ### 기술스택
+<img src ="https://img.shields.io/badge/AWS-232F3E?&style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src ="https://img.shields.io/badge/SpringBoot-6DB33F?&style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
