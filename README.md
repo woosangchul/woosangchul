@@ -1,9 +1,9 @@
 
 <div align="center">
-  
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WooSangChul&fontSize=90)
 
-</div>  
+</div>
 
 ### 안녕하세요 👋 새로운 여러 기술들을 시도하고 도전하고 있습니다
   <프로젝트목록>
@@ -28,7 +28,10 @@
   - AWS와 Spring Boot를 사용한 인공지능 쓰레기통 백엔드 프로젝트 
 </a>
   
-  
+  <div style="text-align:center; margin:0 auto; float:left;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=amts7129"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=amts7129&theme=cold"/>
+</div>
   
 
   
